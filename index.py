@@ -1,2 +1,0 @@
-name = "Navneeth";
-print(name);
